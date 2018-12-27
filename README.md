@@ -1,5 +1,5 @@
 # OCR
-## SOTA Performance
+## SOTA Performance (only unconstrained lexicon-free)
 | id | Paper | SVT | IIIT5k | IC03 | IC13 | SVT-Perspective | CUTE80 | IC15 | Total-Text (multi-oriented) | Total-Text (curved) | 
 | --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |
 | 0 | An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition | 80.8 |  78.2 | 89.4 |  86.7 |
