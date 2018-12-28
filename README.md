@@ -1,5 +1,5 @@
 # OCR
-## SOTA Performance (only unconstrained lexicon-free)
+## Recongition - SOTA Performance (only unconstrained lexicon-free)
 * TTM : Total-Text (multi-oriented) 
 * TTC : Total-Text (curved)
 
@@ -13,3 +13,5 @@
 | 4 | Arbitrarily-oriented text recognition | 82.8 | 87.0 | 91.5 |  | 73.0 | 76.8 | 68.2 |
 | 5 | Edit Probability for Scene Text Recognition | 87.5| 88.3 | **94.6** | **94.4**  | | | 73.9 |
 | 6 | ESIR: End-to-end Scene Text Recognition via Iterative Rectification |  90.2 | 93.3 | | 91.3 | 79.6 |  83.3  | 76.9 | | | Rectification |
+
+## Detection
