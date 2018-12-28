@@ -2,6 +2,7 @@
 ## SOTA Performance (only unconstrained lexicon-free)
 * TTM : Total-Text (multi-oriented) 
 * TTC : Total-Text (curved)
+
 | id | Paper | SVT | IIIT5k | IC03 | IC13 | SVTP | CUTE80 | IC15 | TTM | TTC | 비고 | 
 | --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |
 | | SOTA |  **89.5** | **94.0** | **94.7** | **94.4**| **80.6** | **88.5** | **77.1** | **76.3** | **66.7** |
