@@ -11,7 +11,7 @@
 | 2 | Synthetically Supervised Feature Learning for Scene Text Recognition    | 87.1 | 89.4 | **94.7** | 94.0 | 73.9 | 62.5 | | | | GAN |  
 | 3 | ASTER: An Attentional Scene Text Recognizer with Flexible Rectification | **89.5** | 93.4 | 94.5 | 91.8 | 78.5 | 79.5 | 76.1 | | | Rectification |
 | 4 | Arbitrarily-oriented text recognition | 82.8 | 87.0 | 91.5 |  | 73.0 | 76.8 | 68.2 |
-| 5 | Edit Probability for Scene Text Recognition | 87.5| 88.3 | **94.6** | **94.4**  | | | 73.9 |
+| 5 | Edit Probability for Scene Text Recognition | 87.5| 88.3 | 94.6 | **94.4**  | | | 73.9 |
 | 6 | ESIR: End-to-end Scene Text Recognition via Iterative Rectification |  90.2 | 93.3 | | 91.3 | 79.6 |  83.3  | 76.9 | | | Rectification |
 
 ## Detection
