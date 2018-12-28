@@ -1,5 +1,5 @@
 # OCR
-## Recongition - SOTA Performance (only unconstrained lexicon-free)
+## Recognition - SOTA Performance (only unconstrained lexicon-free)
 * TTM : Total-Text (multi-oriented) 
 * TTC : Total-Text (curved)
 
