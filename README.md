@@ -15,11 +15,17 @@
 | 6 | [7] |  90.2 | 93.3 | | 91.3 | 79.6 |  83.3  | 76.9 | | | Rectification |
 
 [1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
+
 [2] Recurrent Calibration Network for Irregular Text Recognition
+
 [3] Synthetically Supervised Feature Learning for Scene Text Recognition
+
 [4] ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
+
 [5] Arbitrarily-oriented text recognition
+
 [6] Edit Probability for Scene Text Recognition
+
 [7] ESIR: End-to-end Scene Text Recognition via Iterative Rectification
 
 ## Detection
