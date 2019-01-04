@@ -26,11 +26,9 @@
 * [7] ESIR: End-to-end Scene Text Recognition via Iterative Rectification
 
 ## Detection
-
 * R : Recall
 * P : Precision
 * F : F-measure
-
 * MS : MSRA-TD50
 * TT : Total-Text
 
