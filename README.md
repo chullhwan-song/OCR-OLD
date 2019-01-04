@@ -26,3 +26,22 @@
 * [7] ESIR: End-to-end Scene Text Recognition via Iterative Rectification
 
 ## Detection
+
+* R : Recall
+* P : Precision
+* F : F-measure
+
+* MS : MSRA-TD50
+* TT : Total-Text
+
+| Paper | IC13-R |IC13-P |IC13-F| IC15-R |IC15-P |IC15-F| MS-R |MS-P |MS-F|TT-R |TT-P |TT-F|
+| --- | --- |--- | --- |--- |--- | --- |--- |--- | --- | --- |--- | --- | 
+| SOTA| **88.6** |**93.34**   | **90.34** | **82.0** |**86.1** | **83.7**  | **83.0**|**87.28**| **80.21**| **54.41** | **59.89** |  **57.02** |
+| [1] | 87.53    | **93.34**  | **90.34** | 78.33    | 83.27   |  80.78    | 67.43   |**87.28** |  76.08 |
+| [2] | 85.94    | 93.18      | 89.41     | 79.2     | **86.1** | 82.5     |75.26    |  85.88  | **80.21** | 
+| [3] | **88.6** | 87.5       |  88.1     | **82.0** | 85.5    |  **83.7** | **83.0**| 73.2    | 77.8 | **54.41** | **59.89** |  **57.02** |
+
+
+* [1] East: An efficient and accurate scene text detector
+* [2] Detecting Text in the Wild with Deep Character Embedding Network
+* [3] Pixellink: Detecting scene text via instance segmentation
