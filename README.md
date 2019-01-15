@@ -16,6 +16,7 @@
 | [5] | 82.8 | 87.0 | 91.5 |  | 73.0 | 76.8 | 68.2 | | | AON |
 | [6] | 87.5| 88.3 | 94.6 | **94.4**  | | | 73.9 |
 | [7] |  90.2 | 93.3 | | 91.3 | 79.6 |  83.3  | 76.9 | | | Rectification | SK+ST |
+| [8] | 88.3 | 91.2 | 95.0 |  92.4 |
 
 * [1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 * [2] Recurrent Calibration Network for Irregular Text Recognition
@@ -24,7 +25,7 @@
 * [5] Arbitrarily-oriented text recognition
 * [6] Edit Probability for Scene Text Recognition
 * [7] ESIR: End-to-end Scene Text Recognition via Iterative Rectification
-
+* [8] MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition
 
 ## Detection
 * R : Recall
