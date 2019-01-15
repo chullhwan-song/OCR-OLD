@@ -25,6 +25,7 @@
 * [6] Edit Probability for Scene Text Recognition
 * [7] ESIR: End-to-end Scene Text Recognition via Iterative Rectification
 
+
 ## Detection
 * R : Recall
 * P : Precision
@@ -40,9 +41,12 @@
 | [2] | 85.94    | 93.18      | 89.41     | 79.2     | **86.1** | 82.5     |75.26    |  85.88  | **80.21** | 
 | [3] | **88.6** | 87.5       |  88.1     | **82.0** | 85.5    |  **83.7** | 83.0 | 73.2    | 77.8 | 54.41 | 59.89 |  57.02 |
 | [4] | 88.5 | 91.8 | 90.1 | | | | 76.7 | **87.4** | **81.7** | **73.0** | **85.2** | **78.6** |  **77.8** |  **83.8** | **80.7** |
+| [5] | 0.78 | 0.88 | 0.83 |0.43 | 0.71 |  0.54 |0.67 | 0.83|  0.74 | 
 
 
 * [1] East: An efficient and accurate scene text detector
 * [2] Detecting Text in the Wild with Deep Character Embedding Network
 * [3] Pixellink: Detecting scene text via instance segmentation
 * [4] MSR: Multi-Scale Shape Regression for Scene Text Detection
+* [5] Multi-Oriented Text Detection with Fully Convolutional Networks
+
