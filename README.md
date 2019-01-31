@@ -51,3 +51,4 @@
 * [4] MSR: Multi-Scale Shape Regression for Scene Text Detection
 * [5] Multi-Oriented Text Detection with Fully Convolutional Networks
 
+
