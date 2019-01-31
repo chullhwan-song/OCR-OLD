@@ -45,7 +45,7 @@
 | [5] | 0.78 | 0.88 | 0.83 |0.43 | 0.71 |  0.54 |0.67 | 0.83|  0.74 | 
 
 
-* [1] East: An efficient and accurate scene text detector
+* [1] EAST: An Efficient and Accurate Scene Text Detector : [[paper]](https://arxiv.org/abs/1704.03155)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/73)
 * [2] Detecting Text in the Wild with Deep Character Embedding Network
 * [3] PixelLink: Detecting Scene Text via Instance Segmentation : [[paper]](https://arxiv.org/abs/1801.01315)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/71)
 * [4] MSR: Multi-Scale Shape Regression for Scene Text Detection
