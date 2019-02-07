@@ -50,7 +50,7 @@
 * [3] PixelLink: Detecting Scene Text via Instance Segmentation : [[paper]](https://arxiv.org/abs/1801.01315)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/71)
 * [4] MSR: Multi-Scale Shape Regression for Scene Text Detection
 * [5] Multi-Oriented Text Detection with Fully Convolutional Networks
-* [6] Scene Text Detection with Supervised Pyramid Context Network #MASK R-CNN #Multi-Scale
+* [6] Scene Text Detection with Supervised Pyramid Context Network : #MASK R-CNN #Multi-Scale
 
 
 
