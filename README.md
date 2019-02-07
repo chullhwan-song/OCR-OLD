@@ -44,6 +44,7 @@
 | [4] | 88.5 | 91.8 | 90.1 | | | | 76.7 | 87.4 | **81.7** |73.0 | **85.2** | 78.6 |  **77.8** |  **83.8** | **80.7** |
 | [5] | 0.78 | 0.88 | 0.83 |0.43 | 0.71 |  0.54 |0.67 | 0.83|  0.74 | 
 | [6] | **90.5** |**93.8**  |**92.1** | **85.8** |**88.7** | **87.2** | | | | **82.8** | 83.0 |  **82.9** | 
+| [7] | 0.86  | 0.88 | 0.87  | 0.73 | 0.80 |  0.77 |
 
 * [1] EAST: An Efficient and Accurate Scene Text Detector : [[paper]](https://arxiv.org/abs/1704.03155)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/73) :  # U-Net
 * [2] Detecting Text in the Wild with Deep Character Embedding Network
@@ -51,6 +52,8 @@
 * [4] MSR: Multi-Scale Shape Regression for Scene Text Detection
 * [5] Multi-Oriented Text Detection with Fully Convolutional Networks
 * [6] * Scene Text Detection with Supervised Pyramid Context Network : [[paper]](https://arxiv.org/abs/1811.08605)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/75): #MASK R-CNN #Multi-Scale
+* [7] Single Shot Text Detector with Regional Attention : #SSD
+
 
 
 
