@@ -5,7 +5,7 @@
 * 학습셋
   * SK : Synth90K
   * ST : SynthText
-### Evaluation  
+#### Evaluation  
 | Paper | SVT | IIIT5k | IC03 | IC13 | SVTP | CUTE80 | IC15 | TTM | TTC | 비고 | 학습셋 | 
 | :---: | :---: | :---: |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:---: |:---: |
 | SOTA|  **89.5** | **94.0** | **95** | **94.4**| **80.6** | **88.5** | **77.1** | **76.3** | **66.7** |
@@ -35,8 +35,8 @@
 * TT : Total-Text
 * CT : CTW1500 
 
-### Papers's training Information : [링크](https://github.com/chullhwan-song/OCR/issues/1)
-### Evaluation
+#### Papers's training Information : [링크](https://github.com/chullhwan-song/OCR/issues/1)
+#### Evaluation
 
 | Paper | IC13-R |IC13-P |IC13-F| IC15-R |IC15-P |IC15-F|MS-R|MS-P|MS-F|TT-R |TT-P |TT-F| CT-R |CT-P |CT-F| 
 |  :---: | :---: | :---: | :---: |:---: |:---: | :---:  |:---: |:---: | :---:  | :---:  |:---: |:---: | :---: |:---: |:---:  | 
