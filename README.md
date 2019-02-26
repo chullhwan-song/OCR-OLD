@@ -1,11 +1,12 @@
 # OCR
 ## Recognition - SOTA Performance (only unconstrained lexicon-free)
+#### Evaluation 
 * TTM : Total-Text (multi-oriented) 
 * TTC : Total-Text (curved)
 * 학습셋
   * SK : Synth90K
   * ST : SynthText
-#### Evaluation  
+  
 | Paper | SVT | IIIT5k | IC03 | IC13 | SVTP | CUTE80 | IC15 | TTM | TTC | 비고 | 학습셋 | 
 | :---: | :---: | :---: |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:---: |:---: |
 | SOTA|  **89.5** | **94.0** | **95** | **94.4**| **80.6** | **88.5** | **77.1** | **76.3** | **66.7** |
@@ -28,15 +29,14 @@
 * [8] MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition
 
 ## Detection
+#### Papers's training Information : [링크](https://github.com/chullhwan-song/OCR/issues/1)
+#### Evaluation
 * R : Recall
 * P : Precision
 * F : F-measure
 * MS : MSRA-TD50
 * TT : Total-Text
 * CT : CTW1500 
-
-#### Papers's training Information : [링크](https://github.com/chullhwan-song/OCR/issues/1)
-#### Evaluation
 
 | Paper | IC13-R |IC13-P |IC13-F| IC15-R |IC15-P |IC15-F|MS-R|MS-P|MS-F|TT-R |TT-P |TT-F| CT-R |CT-P |CT-F| 
 |  :---: | :---: | :---: | :---: |:---: |:---: | :---:  |:---: |:---: | :---:  | :---:  |:---: |:---: | :---: |:---: |:---:  | 
