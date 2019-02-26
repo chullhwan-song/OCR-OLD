@@ -35,7 +35,8 @@
 * TT : Total-Text
 * CT : CTW1500 
 
-* Paper training Info : [링크](https://github.com/chullhwan-song/OCR/issues/1)
+### Paper training Info : [링크](https://github.com/chullhwan-song/OCR/issues/1)
+### Evaluation
 
 | Paper | IC13-R |IC13-P |IC13-F| IC15-R |IC15-P |IC15-F|MS-R|MS-P|MS-F|TT-R |TT-P |TT-F| CT-R |CT-P |CT-F| 
 |  :---: | :---: | :---: | :---: |:---: |:---: | :---:  |:---: |:---: | :---:  | :---:  |:---: |:---: | :---: |:---: |:---:  | 
