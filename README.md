@@ -57,7 +57,7 @@
 * [5] Multi-Oriented Text Detection with Fully Convolutional Networks
 * [6] Scene Text Detection with Supervised Pyramid Context Network : [[paper]](https://arxiv.org/abs/1811.08605)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/75): #MASK R-CNN #Multi-Scale
 * [7] Single Shot Text Detector with Regional Attention : #SSD
-* [8] FOTS: Fast Oriented Text Spotting with a Unified Network #Multi-Scale
+* [8] FOTS: Fast Oriented Text Spotting with a Unified Network #Multi-Scale # 2008.01
 
 
 
