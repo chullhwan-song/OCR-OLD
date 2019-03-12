@@ -50,7 +50,7 @@
 | [6] |18.11 |**90.5** |**93.8**  |92.1 |  85.8  | 88.7 | 87.2 | | | | **82.8** | 83.0 |  **82.9** | 
 | [4]MSR | 19.01 |88.5 | 91.8 | 90.1 | | | | 76.7 | 87.4 | **81.7** |73.0 | **85.2** | 78.6 |  **77.8** |  **83.8** | **80.7** |
 | [2] | 19.01 |85.94| 93.18| 89.41 | 79.2 | 86.1 | 82.5     |75.26    |  85.88  | **80.21** | 
-
+| [10] | | | | | | | | |  | | 69.0 | 55.0 | 61.3 |
 
 * [1] EAST: An Efficient and Accurate Scene Text Detector : [[paper]](https://arxiv.org/abs/1704.03155)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/73) :  # U-Net
 * [2] Detecting Text in the Wild with Deep Character Embedding Network
@@ -61,6 +61,8 @@
 * [7] Single Shot Text Detector with Regional Attention : #SSD
 * [8] FOTS: Fast Oriented Text Spotting with a Unified Network : [[paper]](https://arxiv.org/abs/1801.01671)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/107) 
 * [9] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping
+* [10] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes
+
 
 
 
