@@ -11,6 +11,8 @@
 | :--- | :---: | :---: |:---: |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:--- |:--- |
 | SOTA| | **89.5** | **94.0** | **95** | **94.4**| **80.6** | **88.5** | **77.1** | **76.3** | **66.7** |
 | [1] CRNN | 15.07 | 80.8 |  78.2 | 89.4 |  86.7 | 66.8 | 54.9 | | | | base:CRNN | SK| 
+| [10] RARE    | 16.x | 81.9 | 81.9 |  90.1 | 88.6 |  |  | | | | Rectification | SK| 
+| [9] STAR-Net | 16.x | 83.6 | 83.3 | 89.1 |  73.5 |  |  | | | | Rectification | SK| 
 | [3] | 18.x | 87.1 | 89.4 | 94.7 | 94.0 | 73.9 | 62.5 | | | | GAN |  
 | [4] ASTER | 18.x | **89.5** | 93.4 | 94.5 | 91.8 | 78.5 | 79.5 | 76.1 | | | Rectification |
 | [5] AON | 18.03 | 82.8 | 87.0 | 91.5 |  | 73.0 | 76.8 | 68.2 | | | AON |
@@ -27,6 +29,8 @@
 * [6] Edit Probability for Scene Text Recognition
 * [7] ESIR: End-to-end Scene Text Recognition via Iterative Rectification # Rectification
 * [8] MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition # Rectification
+* [9] STAR-Net: A SpaTial Attention Residue Network for Scene Text Recognition
+* [10] RARE: Robust Scene Text Recognition with Automatic Rectification
 
 ## Detection
 #### Papers's training Information : [링크](https://github.com/chullhwan-song/OCR/issues/1)
