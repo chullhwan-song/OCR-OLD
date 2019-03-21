@@ -22,11 +22,11 @@
 * [1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 * [2] Recurrent Calibration Network for Irregular Text Recognition
 * [3] Synthetically Supervised Feature Learning for Scene Text Recognition : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
-* [4] ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
+* [4] ASTER: An Attentional Scene Text Recognizer with Flexible Rectification # Rectification
 * [5] Arbitrarily-oriented text recognition
 * [6] Edit Probability for Scene Text Recognition
-* [7] ESIR: End-to-end Scene Text Recognition via Iterative Rectification
-* [8] MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition
+* [7] ESIR: End-to-end Scene Text Recognition via Iterative Rectification # Rectification
+* [8] MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition # Rectification
 
 ## Detection
 #### Papers's training Information : [링크](https://github.com/chullhwan-song/OCR/issues/1)
