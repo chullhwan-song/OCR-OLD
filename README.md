@@ -9,7 +9,7 @@
   
 | Paper | year | SVT | IIIT5k | IC03 | IC13 | SVTP | CUTE80 | IC15 | TTM | TTC | 비고 | 학습셋 | 
 | :--- | :---: | :---: |:---: |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:--- |:--- |
-| SOTA| | **91.5** | **94.0** | **95.4** | **95.8**| **80.6** | **88.5** | **77.1** | **76.3** | **66.7** |
+| SOTA| | **91.5** | **94.0** | **96.7** | **95.8**| **80.6** | **88.5** | **77.1** | **76.3** | **66.7** |
 | [1] CRNN     | 15.07 | 80.8 |  78.2 | 89.4 |  86.7 | 66.8 | 54.9 | | | | base:CRNN | SK| 
 | [10] RARE    | 16.x | 81.9 | 81.9 |  90.1 | 88.6 | 71.8 |  | | | | Rectification | SK| 
 | [9] STAR-Net | 16.x | 83.6 | 83.3 | 89.9 | 89.1  | 73.5  |  | | | | Rectification | SK| 
@@ -21,7 +21,8 @@
 | [7] ESIR| 18.12| 90.2 | 93.3 | | 91.3 | 79.6 |  83.3  | 76.9 | | | Rectification | SK+ST |
 | [8] MORAN V1 | 19.01|  88.3 | 91.2  | 95.0 |  92.4 | 76.1 | 77.4 | | | | Rectification | SK+ST |
 | [8] MORAN V2 | 19.01|  88.3 | 93.4  | 94.2 |  93.2 | 79.7 | 81.9 | | | | Rectification | SK+ST |
-| [11] NRT   R | 19.10|**91.5**| 90.1 | **95.4** |  **95.8** | |  | | | |  |  |
+| [11] NRTR | 19.10|**91.5**| 90.1 | 95.4 |  **95.8** | |  | | | |  |  |
+| [12] SATRN | 19.10| 91.3 | 92.8 | **96.7** |  94.1 | |  | | | |  |  |
 
 * [1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 * [2] Recurrent Calibration Network for Irregular Text Recognition
@@ -34,6 +35,7 @@
 * [9] STAR-Net: A SpaTial Attention Residue Network for Scene Text Recognition
 * [10] RARE: Robust Scene Text Recognition with Automatic Rectification
 * [11] NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition
+* [12] SATRN: On Recognizing Texts of Arbitrary Shapes with 2D Self-Attenti
 
 ## Detection
 #### Papers's training Information : [링크](https://github.com/chullhwan-song/OCR/issues/1)
