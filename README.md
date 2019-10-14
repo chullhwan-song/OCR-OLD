@@ -19,9 +19,9 @@
 | [6] | 18.05 | 87.5| 88.3 | 94.6 | 94.4  | | | 73.9 |
 | [2] | 18.12 |  88.6 | **94.0** | 93.6 | 93.2 | **80.6** | **88.5** | **77.1** | **76.3** | **66.7** |   | SK+ST |
 | [7] ESIR| 18.12| 90.2 | 93.3 | | 91.3 | 79.6 |  83.3  | 76.9 | | | Rectification | SK+ST |
-| [8] MORAN V1 | 19.01|  88.3 | 91.2 | **95.0** |  92.4 | 76.1 | 77.4 | | | | Rectification | SK+ST |
-| [8] MORAN V2 | 19.01|  88.3 | 93.4 | 94.2 |  93.2 | 79.7 | 81.9 | | | | Rectification | SK+ST |
-| [11] NRTR | 19.10|  **91.5** | 90.1 | **95.4** |  **95.8** | |  | | | |  |  |
+| [8] MORAN V1 | 19.01|  88.3 | 91.2  | 95.0 |  92.4 | 76.1 | 77.4 | | | | Rectification | SK+ST |
+| [8] MORAN V2 | 19.01|  88.3 | 93.4  | 94.2 |  93.2 | 79.7 | 81.9 | | | | Rectification | SK+ST |
+| [11] NRT   R | 19.10|**91.5**| 90.1 | **95.4** |  **95.8** | |  | | | |  |  |
 
 * [1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 * [2] Recurrent Calibration Network for Irregular Text Recognition
