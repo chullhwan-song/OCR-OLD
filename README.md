@@ -34,8 +34,8 @@
 * [8] MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition # Rectification
 * [9] STAR-Net: A SpaTial Attention Residue Network for Scene Text Recognition
 * [10] RARE: Robust Scene Text Recognition with Automatic Rectification
-* [11] NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition
-* [12] SATRN: On Recognizing Texts of Arbitrary Shapes with 2D Self-Attenti
+* [11] NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition # self attention
+* [12] SATRN: On Recognizing Texts of Arbitrary Shapes with 2D Self-attention # self attention
 
 ## Detection
 #### Papers's training Information : [링크](https://github.com/chullhwan-song/OCR/issues/1)
