@@ -6,7 +6,7 @@
 * 학습셋
   * SK : Synth90K
   * ST : SynthText
- * MY : MY implementation(~current)
+ * MY : MY implementation(~2017)
  
 | Paper | year | SVT | IIIT5k | IC03 | IC13 | SVTP | CUTE80 | IC15 | TTM | TTC | 비고 | 학습셋 | 
 | :--- | :---: | :---: |:---: |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:--- |:--- |
