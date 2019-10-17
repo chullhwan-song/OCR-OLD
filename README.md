@@ -6,7 +6,6 @@
 * 학습셋
   * SK : Synth90K
   * ST : SynthText
- * MY : MY implementation(~2017)
  
 | Paper | year | SVT | IIIT5k | IC03 | IC13 | SVTP | CUTE80 | IC15 | TTM | TTC | 비고 | 학습셋 | 
 | :--- | :---: | :---: |:---: |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:--- |:--- |
@@ -26,6 +25,7 @@
 | [11] NRTR | 19.10|**91.5**| 90.1 | 95.4 |  **95.8** | **86.6** | 80.9 | **79.4** | | |  |  |
 | [12] SATRN | 19.10| 91.3 | 92.8 | **96.7** |  94.1 | 86.5 | 87.8 | 79.0 | | |  |  |
 
+* MY : MY implementation(2017), CRNN(modified networks)+jointly(CTC+Attention)+Rectification
 * [1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 * [2] Recurrent Calibration Network for Irregular Text Recognition
 * [3] Synthetically Supervised Feature Learning for Scene Text Recognition : [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.html)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/60)
