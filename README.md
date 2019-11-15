@@ -22,8 +22,8 @@
 | [7] ESIR| 18.12| 90.2 | 93.3 | | 91.3 | 79.6 |  83.3  | 76.9 | | | Rectification | SK+ST |
 | [8] MORAN V1 | 19.01|  88.3 | 91.2  | 95.0 |  92.4 | 76.1 | 77.4 | | | | Rectification | SK+ST |
 | [8] MORAN V2 | 19.01|  88.3 | 93.4  | 94.2 |  93.2 | 79.7 | 81.9 | | | | Rectification | SK+ST |
-| [11] NRTR | 19.10|**91.5**| 90.1 | 95.4 |  **95.8** | **86.6** | 80.9 | **79.4** | | |  |  |
-| [12] SATRN | 19.10| 91.3 | 92.8 | **96.7** |  94.1 | 86.5 | 87.8 | 79.0 | | |  |  |
+| [11] NRTR | 19.10|**91.5**| 90.1 | 95.4 |  **95.8** | **86.6** | 80.9 | **79.4** | | | Transformer |  |
+| [12] SATRN | 19.10| 91.3 | 92.8 | **96.7** |  94.1 | 86.5 | 87.8 | 79.0 | | | Transformer |  |
 
 * MY : MY implementation(2017), CRNN(modified networks)+jointly(CTC+Attention)+Rectification
 * [1] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
