@@ -76,6 +76,7 @@
 * [9] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping
 * [10] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes
 * [11] CRAFT: Character Region Awareness for Text Detection, # F-Measure대신에 H-Mean으로 표현했다.같은것인지 
+* [3] Real-time Scene Text Detection with Differentiable Binarization
 
 
 
